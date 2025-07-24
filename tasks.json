@@ -1,0 +1,18 @@
+[
+    {
+        "task": "Get wokr first project",
+        "done": false
+    },
+    {
+        "task": "Get wokr first project",
+        "done": true
+    },
+    {
+        "task": "Task 1",
+        "done": false
+    },
+    {
+        "task": "Task 2",
+        "done": false
+    }
+]
