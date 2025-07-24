@@ -1,18 +1,22 @@
 [
     {
-        "task": "Get wokr first project",
+        "task": "Allow users to add a new task by typing it in an input box and clicking a button.",
         "done": true
     },
     {
-        "task": "Get wokr first project",
+        "task": "Tasks should not be empty or contain only spaces.",
         "done": true
     },
     {
-        "task": "Task 1",
+        "task": "Add a &quot;Delete&quot; button next to each task to remove it.",
+        "done": true
+    },
+    {
+        "task": "All tasks should be saved in a file (tasks.json) so they remain even after reloading the page.",
         "done": false
     },
     {
-        "task": "Task 2",
+        "task": "After adding, marking, or deleting a task, the page should reload automatically.",
         "done": false
     }
 ]

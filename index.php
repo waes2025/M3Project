@@ -116,7 +116,7 @@ if($_SERVER['REQUEST_METHOD'] === 'POST') {
                                 <input type="hidden" name="toggle" value="<?= $index; ?>">
                                 <button type="submit" style="border: none; background: none; cursor: pointer; text-align: left; width: 100%;">
                                     <span class="task <?= $task['done'] ? 'task-done' : '' ?>">
-                                    <?= $index; ?>   <?= $task['task']; ?>
+                                    <?= $index +1; ?>   <?= $task['task']; ?>
                                     </span>
                                 </button>
                              </form>
